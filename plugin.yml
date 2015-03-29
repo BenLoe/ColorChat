@@ -1,0 +1,9 @@
+name: ChatColor
+main: me.BenLoe.ColorChat.Main
+version: 1.0
+description: >
+             Chat coloring plugin
+commands:
+  ChatColor:
+    description: Pick a color to make your chat.
+
